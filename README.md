@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio — a sleek, responsive one-page site
 
 ---
 
-## Features
+## 🚀 Features
 
 - Stylish one-page responsive design  
 - About me, experience, and certifications  
@@ -19,13 +19,10 @@ Welcome to my personal developer portfolio — a sleek, responsive one-page site
 
 ---
 
-## Skills
+## 🧠 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/mediapipe-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe"/>
-  <img src="https://img.shields.io/badge/flutterflow-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/>
-  <img src="https://img.shields.io/badge/machine%20learning-00C853?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/computer%20vision-512DA8?style=for-the-badge&logo=nvidia&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
