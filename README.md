@@ -1,6 +1,6 @@
-# Aswin Samuel – Developer Portfolio
+#  Portfolio
 
-Welcome to my personal developer portfolio — a sleek, responsive one-page site showcasing my journey as an AI/ML developer.
+Welcome to my personal developer portfolio  a sleek, responsive one-page site showcasing my journey as an AI/ML developer.
 
 🔗 **Live Demo**: [https://aswinsamuel-codes.github.io/aswin-portfolio/](https://aswinsamuel-codes.github.io/aswin-portfolio/)
 
