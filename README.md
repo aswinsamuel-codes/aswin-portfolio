@@ -8,13 +8,12 @@ Welcome to my personal developer portfolio — a sleek, responsive one-page site
 
 ## 🚀 Features
 
-- Stylish one-page responsive design
-- About me, experience, and certifications
-- Skills section with animated progress bars
-- Project showcase with icons and tags
-- Resume download with confetti effect
-- Secret "magic" keyword Easter egg
-- Contact form with animated feedback
+- Stylish one-page responsive design  
+- About me, experience, and certifications  
+- Skills section with animated progress bars  
+- Project showcase with icons and tags  
+- **Resume download** with confetti effect  
+- Secret "**magic**" keyword Easter egg  
+- Contact form with animated feedback  
 - Starry cosmic background & 3D particle effects
 
----
