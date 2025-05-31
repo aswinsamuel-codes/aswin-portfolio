@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio — a sleek, responsive one-page site
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Stylish one-page responsive design  
 - About me, experience, and certifications  
@@ -19,7 +19,7 @@ Welcome to my personal developer portfolio — a sleek, responsive one-page site
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
