@@ -1,5 +1,7 @@
 #  Portfolio
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono+Base&weight=500&size=25&pause=1000&width=435&lines=Welcome+to+my+portfolio" alt="Typing SVG" /></a>
+
 Welcome to my personal developer portfolio  a sleek, responsive one-page site showcasing my journey as an AI/ML developer.
 
 🔗 **Live Demo**: [https://aswinsamuel-codes.github.io/aswin-portfolio/](https://aswinsamuel-codes.github.io/aswin-portfolio/)
