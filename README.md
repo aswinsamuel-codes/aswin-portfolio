@@ -1,4 +1,4 @@
-# 🌟 Aswin Samuel – Developer Portfolio
+# Aswin Samuel – Developer Portfolio
 
 Welcome to my personal developer portfolio — a sleek, responsive one-page site showcasing my journey as an AI/ML developer.
 
